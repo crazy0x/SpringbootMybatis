@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: crazy0x
+Implementation-Vendor-Id: com
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7.0_79
+Main-Class: ${start-class}
+
